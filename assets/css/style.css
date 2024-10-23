@@ -8,7 +8,7 @@
 
 body {
   background: black;
-  width: 1440px;
+  
 }
 
 main {
@@ -23,10 +23,14 @@ div {
   width: 100%;
 }
 
-p,
-span {
-  font-size: 16px;
+p{
+  font-size: 15px;
 }
+span {
+  font-size: 15px;
+  color: #1472B7;
+}
+
 
 .banner {
   display: flex;
@@ -148,7 +152,7 @@ button {
   color: #31A8DD;
   font-size: 1rem;
   font-weight: 900;
-  padding: 16px 36px;
+  padding: 16px 0px;
   text-transform: uppercase;
   letter-spacing: 4px;
   background-color: transparent;
@@ -238,3 +242,4 @@ footer a{
   color: rgba(51, 168, 219, 1);
   text-decoration: none;
 }
+
