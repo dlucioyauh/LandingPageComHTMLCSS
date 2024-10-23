@@ -49,11 +49,11 @@ span {
   left: 0;
   width: 100%;
   height: 100%;
-  background: url('assets/images/banner.png'), rgb(51, 169, 219, .6);
+  background: url('assets/images/banner.png'), rgba(51, 169, 219, 0.2);
   background-repeat: no-repeat;
   background-size: cover;
-  filter: brightness(.4);
-  z-index: -7;
+  filter: brightness(0.8); 
+  z-index: -7; 
 }
 
 .banner::before {
