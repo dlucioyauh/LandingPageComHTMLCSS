@@ -8,7 +8,7 @@ Bem-vindo(a) ao primeiro desafio da Trilha de CSS da DIO! 🎉
 Neste projeto, desenvolvi uma **Landing Page** utilizando somente **HTML** e **CSS**, aplicando na prática os conceitos fundamentais do CSS, como propriedades básicas de estilização, posicionamento de elementos e utilização de medidas relativas e absolutas. 
 
 ## 🔗 Acesse o projeto:
-[Clique aqui](####) para visualizar o resultado final da Landing Page criada a partir do desafio!
+[Clique aqui](https://dlucioyauh.github.io/LandingPageComHTMLCSS/) para visualizar o resultado final da Landing Page criada a partir do desafio!
 
 ![Demonstração do Projeto](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
 
