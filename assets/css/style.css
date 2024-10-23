@@ -123,4 +123,11 @@
   .dio-logo {
     margin-bottom: 10px;
   }
-  
+
+h1 {
+    font-size: 3rem;  
+    background: linear-gradient(90deg, #ff6f61, #ff3e2e); 
+    -webkit-background-clip: text; 
+    color: transparent; 
+  }
+    
