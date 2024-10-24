@@ -10,6 +10,8 @@ Neste projeto, desenvolvi uma **Landing Page** utilizando somente **HTML** e **C
 ## 🔗 Acesse o projeto:
 [Clique aqui](https://dlucioyauh.github.io/LandingPageComHTMLCSS/) para visualizar o resultado final da Landing Page criada a partir do desafio!
 
+[Clique aqui](https://landing-page-com-htmlcss.vercel.app/) para ver o Deploy no Vercel.   As vezes o Github Pages não sobe as mudanças.
+
 ![Demonstração do Projeto](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
 
 ## 🎨 Design e Protótipo:
